@@ -10,7 +10,7 @@ This repository contains my solutions for some challenges from Data Challenge, f
 - Challenge involves classifying apps as benign or malicious based on permissions using machine learning.
 - Score: Finale 2.215040
 
-# Note
+# About This Repository
 
 Sorry for the messy code; it was developed under competition constraints and it was my first acquaintance with forecasting. 
 
